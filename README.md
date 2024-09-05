@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S4KSHAM
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL, PowerBI, python.
+- 🌱 My skills are in SQL, PowerBI, Python, Machine Learning, Robotic Process Automation.
 - 💞️ I’m looking to collaborate on data analytics projects.
 - 📫 How to reach me sonisaksham57@gmail.com
 
